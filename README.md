@@ -13,3 +13,4 @@ This project is  SQL project analyzing the data engineer job market using real w
 <img width="1003" height="968" alt="Screenshot 2026-07-29 121511" src="https://github.com/user-attachments/assets/cf193aa1-f2d7-4e47-a85f-a99263a13cf4" />
 
 ## 2.Top paying skill: Top Demand Skill
+This is an ongoing project I will update more details soon.
